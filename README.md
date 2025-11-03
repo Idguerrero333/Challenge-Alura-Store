@@ -26,4 +26,4 @@ Después del análisis, explicare a qué tienda debería vender el Sr. João y p
 
 ##Tablero del proyecto
 Te invito a ver el paso a paso del proyecto con la gestion desde la planificacion al desarrollo del mismo con **TRELLO**
-https://trello.com/b/wyC77vm8/challenge-alura-store
+https://trello.com/invite/b/690931c4d246726bd6961293/ATTIc1d37eb244e1f7b6402318964eb686329950E046/challenge-alura-store
