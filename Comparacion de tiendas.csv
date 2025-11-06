@@ -1,0 +1,53 @@
+Valor total de ventas,Valor promedio de envío,Calificacion promedio,Top 5 productos más vendidos,Top 5 productos menos vendidos
+1150880400.0,26018.61,3.98,"Producto
+Microondas          2.54%, 
+TV LED UHD 4K       2.54%, 
+Armario             2.54%, 
+Secadora de ropa    2.46%, 
+Mesa de noche       2.37%, 
+Name: Porcentaje %, dtype: object","Producto
+Ciencia de datos con Python    1.65%, 
+Pandereta                      1.53%, 
+Olla de presión                1.48%, 
+Auriculares con micrófono       1.4%, 
+Celular ABXY                    1.4%, 
+Name: Porcentaje %, dtype: object"
+1116343500.0,25216.24,4.04,"Producto
+Iniciando en programación    2.76%, 
+Microondas                   2.63%, 
+Batería                      2.59%, 
+Guitarra acústica            2.46%, 
+Pandereta                    2.46%, 
+Name: Porcentaje %, dtype: object","Producto
+Auriculares        1.57%, 
+Sillón             1.48%, 
+Mesa de comedor    1.44%, 
+Impresora          1.44%, 
+Juego de mesa      1.36%, 
+Name: Porcentaje %, dtype: object"
+1098019600.0,24805.68,4.05,"Producto
+Kit de bancas      2.42%, 
+Mesa de comedor    2.37%, 
+Cama king          2.37%, 
+Set de ollas       2.33%, 
+Mesa de noche      2.33%, 
+Name: Porcentaje %, dtype: object","Producto
+Guitarra eléctrica         1.61%, 
+Set de vasos               1.53%, 
+Mochila                    1.53%, 
+Microondas                 1.53%, 
+Bloques de construcción    1.48%, 
+Name: Porcentaje %, dtype: object"
+1038375700.0,23459.46,4.0,"Producto
+Cama box                     2.63%, 
+Cubertería                    2.5%, 
+Dashboards con Power BI      2.37%, 
+Cama king                    2.37%, 
+Carrito de control remoto    2.33%, 
+Name: Porcentaje %, dtype: object","Producto
+Refrigerador                   1.61%, 
+Ciencia de datos con Python    1.61%, 
+Guitarra acústica              1.57%, 
+Armario                        1.44%, 
+Guitarra eléctrica              1.4%, 
+Name: Porcentaje %, dtype: object"
